@@ -8,7 +8,7 @@ I'm André, a passionate full-stack developer with PHP, Laravel, VueJS, Livewire
 
 🌱 I'm currently also studying Clean Code, Clean Architecture, and Node.js
 
-👨‍💻 All of my studying projects are available at https://github.com/copetti
+👨‍💻 All of my studying projects are available further down
 
 💬 Ask me about Laravel and VueJS
 
@@ -25,5 +25,5 @@ Happy coding! 🚀
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dd35b550eae97295faa3e2420c5d3ad49c5c451edac91201211b4486d55d0878/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2e737667"><img align="center" alt="Andre-DOCKER" height="30" width="40" src="https://camo.githubusercontent.com/dd35b550eae97295faa3e2420c5d3ad49c5c451edac91201211b4486d55d0878/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2e737667" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="max-width: 100%;"></a>
 </div><br><br>
 
-📫 How to reach me andrecopetti@gmail.com
+📫 How to reach me andrecopetti@gmail.com<br>
 📄 Know about my experiences https://www.linkedin.com/in/andr%C3%A9-copetti/
