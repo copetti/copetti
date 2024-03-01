@@ -26,4 +26,4 @@ Happy coding! 🚀
 </div><br><br>
 
 📫 How to reach me andrecopetti@gmail.com<br>
-📄 Know about my experiences https://www.linkedin.com/in/andr%C3%A9-copetti/
+📄 Know about my experiences https://www.linkedin.com/in/andré-copetti/
